@@ -1,6 +1,6 @@
 const CHECKED_CLASSNAME = "checked";
 const CHECKED_BTN_VALUE = "Try Again";
-const CHECKED_EMOTION = "Wow, not bored anymore 🔥";
+const CHECKED_EMOTION = "Cool, not bored anymore 🔥";
 
 const boredContainerNode = document.getElementById("boredContainer");
 const emotionNode = document.getElementById("emotion");

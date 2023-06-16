@@ -18,14 +18,10 @@ body {
 
 .boredContainer {
     margin: auto;
-    padding: 4em 1em;
+    padding: 4em 0;
     max-width: 800px;
     height: 100vh;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
-    gap: 2em;
+    text-align: center;
     background-image: linear-gradient(
         180deg,
         rgba(0, 0, 0, 0) 0%,
