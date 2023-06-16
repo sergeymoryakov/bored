@@ -42,7 +42,12 @@ body {
 }
 
 .emotion {
+    font-size: 1em;
     font-weight: 700;
+}
+
+.suggest {
+    height: 2em;
 }
 
 .findOutBtn {
